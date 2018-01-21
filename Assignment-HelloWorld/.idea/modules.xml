@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment-HelloWorld.iml" filepath="$PROJECT_DIR$/Assignment-HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/assignment-helloworld.iml" filepath="$PROJECT_DIR$/.idea/modules/assignment-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/assignment-helloworld-build.iml" filepath="$PROJECT_DIR$/.idea/modules/assignment-helloworld-build.iml" />
+    </modules>
+  </component>
+</project>

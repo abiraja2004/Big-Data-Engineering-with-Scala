@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/vaishalilambe/eclipse-workspace/CSYE7200_Assignment1_Part2/target/scala-2.12/moviedatabase_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/neu/coe/csye7200/assthw[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vaishalilambe/eclipse-workspace/CSYE7200_Assignment1_Part2/target/scala-2.12/classes/edu/neu/coe/csye7200/assthw[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/neu/coe/csye7200/assthw/Movie$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vaishalilambe/eclipse-workspace/CSYE7200_Assignment1_Part2/target/scala-2.12/classes/edu/neu/coe/csye7200/assthw/Movie$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/neu/coe/csye7200/assthw/Ingest$IngestibleMovie.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vaishalilambe/eclipse-workspace/CSYE7200_Assignment1_Part2/target/scala-2.12/classes/edu/neu/coe/csye7200/assthw/Ingest$IngestibleMovie.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/neu/coe/csye7200/assthw/Ingest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vaishalilambe/eclipse-workspace/CSYE7200_Assignment1_Part2/target/scala-2.12/classes/edu/neu/coe/csye7200/assthw/Ingest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/neu/coe/csye7200/assthw/Ingest$IngestibleMovie$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vaishalilambe/eclipse-workspace/CSYE7200_Assignment1_Part2/target/scala-2.12/classes/edu/neu/coe/csye7200/assthw/Ingest$IngestibleMovie$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/neu/coe[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vaishalilambe/eclipse-workspace/CSYE7200_Assignment1_Part2/target/scala-2.12/classes/edu/neu/coe[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/neu/coe/csye7200/assthw/Ingestible.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vaishalilambe/eclipse-workspace/CSYE7200_Assignment1_Part2/target/scala-2.12/classes/edu/neu/coe/csye7200/assthw/Ingestible.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vaishalilambe/eclipse-workspace/CSYE7200_Assignment1_Part2/target/scala-2.12/classes/edu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/neu/coe/csye7200/assthw/Movie.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vaishalilambe/eclipse-workspace/CSYE7200_Assignment1_Part2/target/scala-2.12/classes/edu/neu/coe/csye7200/assthw/Movie.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/neu/coe/csye7200[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vaishalilambe/eclipse-workspace/CSYE7200_Assignment1_Part2/target/scala-2.12/classes/edu/neu/coe/csye7200[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/neu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vaishalilambe/eclipse-workspace/CSYE7200_Assignment1_Part2/target/scala-2.12/classes/edu/neu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/neu/coe/csye7200/assthw/Ingest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vaishalilambe/eclipse-workspace/CSYE7200_Assignment1_Part2/target/scala-2.12/classes/edu/neu/coe/csye7200/assthw/Ingest.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
